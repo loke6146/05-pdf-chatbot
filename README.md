@@ -1,5 +1,7 @@
 # 🤖 Chat With Your PDF
 
+Try yourself: https://loke-pdf-chatbot.streamlit.app/
+
 An AI-powered PDF chatbot built with **Streamlit + OpenRouter + DeepSeek**.
 
 Upload any PDF, get an **AI-generated summary**, and **ask questions directly from the document**.
